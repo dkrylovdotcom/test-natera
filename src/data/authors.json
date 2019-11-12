@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sierra Ferguson",
+    "image": "/images/post-author1.png",
+    "role": "TPM"
+  },
+  {
+    "id": 2,
+    "name": "Lina Lake",
+    "image": "/images/post-author2.png",
+    "role": "Head of manager dept."
+  },
+  {
+    "id": 3,
+    "name": "George Fields",
+    "image": "/images/post-author3.png",
+    "role": "Head of QA dept."
+  },
+  {
+    "id": 4,
+    "name": "Glen Moore",
+    "image": "/images/post-author4.png",
+    "role": "Head of Statistics"
+  }
+]

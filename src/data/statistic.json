@@ -1,0 +1,25 @@
+{
+  "money": {
+    "earnings": {
+      "total": 2289.32,
+      "changes": "+12%"
+    },
+    "chart": {}
+  },
+  "work": {
+    "employes": {
+      "count": 62,
+      "part": "24%"
+    },
+    "projects": {
+      "count": 23,
+      "thisMonthCount": 3
+    },
+    "specializations": [
+      {"id": 1, "name": "java"},
+      {"id": 2, "name": "ruby"},
+      {"id": 3, "name": "scala"},
+      {"id": 4, "name": "js"}
+    ]
+  }
+}

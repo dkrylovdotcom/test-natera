@@ -1,0 +1,9 @@
+{
+  "dashboard": {
+    "postsCount": 8,
+    "notificationHideIn": 8
+  },
+  "adminBoard": {
+    "postsCount": 12
+  }
+}

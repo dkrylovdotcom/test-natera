@@ -1,0 +1,107 @@
+[
+  {
+    "id": 7,
+    "type": "PostText",
+    "status": true,
+    "context": {
+      "title": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "image": null
+    },
+    "author": {
+      "name": "Sierra Ferguson",
+      "image": "/images/post-author1.png",
+      "role": "TPM"
+    },
+    "createTime": 1573285831
+  },
+  {
+    "id": 6,
+    "type": "PostImage",
+    "status": true,
+    "context": {
+      "title": "We did it!",
+      "image": "/images/post1.png"
+    },
+    "author": {
+      "name": "Lina Lake",
+      "image": "/images/post-author2.png",
+      "role": "Head of manager dept."
+    },
+    "createTime": 1573285830
+  },
+  {
+    "id": 5,
+    "type": "PostText",
+    "status": true,
+    "context": {
+      "title": "Obstacle are those frightful things you see when you take your eyes off your goal.",
+      "image": null
+    },
+    "author": {
+      "name": "George Fields",
+      "image": "/images/post-author3.png",
+      "role": "Head of QA dept."
+    },
+    "createTime": 1573285829
+  },
+  {
+    "id": 4,
+    "type": "PostImage",
+    "status": true,
+    "context": {
+      "title": "",
+      "image": "/images/post3.png"
+    },
+    "author": {
+      "name": "Glen Moore",
+      "image": "/images/post-author4.png",
+      "role": "Head of Statistics"
+    },
+    "createTime": 1573285828
+  },
+  {
+    "id": 3,
+    "type": "PostText",
+    "status": false,
+    "context": {
+      "title": "If everyone is moving forward together, then success takes care of itself",
+      "image": null
+    },
+    "author": {
+      "name": "Glen Moore",
+      "image": "/images/post-author4.png",
+      "role": "Head of Statistics"
+    },
+    "createTime": 1573285827
+  },
+  {
+    "id": 2,
+    "type": "PostText",
+    "status": false,
+    "context": {
+      "title": "Obstacle are those frightful things you see when you take your eyes off your goal.",
+      "image": null
+    },
+    "author": {
+      "name": "George Fields",
+      "image": "/images/post-author3.png",
+      "role": "Head of QA dept."
+    },
+    "createTime": 1573285826
+  },
+  {
+    "id": 1,
+    "type": "PostImage",
+    "status": false,
+    "context": {
+      "title": "We did it again!",
+      "image": "/images/post2.png"
+    },
+    "author": {
+      "name": "Lina Lake",
+      "image": "/images/post-author2.png",
+      "role": "Head of manager dept."
+    },
+    "createTime": 1573285825
+  }
+]
